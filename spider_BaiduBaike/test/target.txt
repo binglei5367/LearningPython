@@ -1,0 +1,15 @@
+目标
+百度百科python词条及相关词条网页-标题和简介
+
+入口url
+http://baike.baidu.com/view/21087.htm
+
+url格式
+ -词条页面url  <a href="/view/125370.htm" target="_blank">面向对象</a>
+ 
+ 数据格式
+<dd class="lemmaWgt-lemmaTitle-title"><h1>Python</h1>
+<div class="para" label-module="para">
+
+编码格式
+UTF-8

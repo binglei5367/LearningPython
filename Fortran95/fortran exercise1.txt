@@ -1,0 +1,35 @@
+! Project_name: Sequential structure design
+
+! Script1: solve some problems of the fishpond
+
+implicit none
+
+real a, b, h, c, s, y, v
+
+print* , 'Enter the "top length", "bottom length" and "height" like "a, b, h"'
+read* , a, b, h
+
+c = SQRT((a - b) ** 2 + h ** 2)
+print* , 'The waist length is ', c
+
+s = (a + b) * h / 2
+y = 4 * s
+print* , 'The yield of fish is ', y
+
+v = 10 * y
+print* , 'The value of fish is ', v
+
+
+
+! Script2: divert Fahrenheit into Celsius
+
+implicit none
+
+real f, c
+
+print* , 'Enter the value of temperature in Fahrenheit:'
+read* , f
+
+c = 5 / 9 * (f - 32)
+
+print* , f, ' degrees Fahrenheit = ', c, ' degrees Celsius'

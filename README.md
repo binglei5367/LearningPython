@@ -1,3 +1,5 @@
 # LearningPython
-Part of the exercising code after book "LearnPythonTheHardWay" left in harddisk of Win-sys.
-More code were in HD Mac-sys and they'll be committed in a few days..
+Here is the code I wrote as a beginner for programming.
+Most were in Python for I learned Python as the first language.
+Some of them were from guiding books as the exercise of learning a language, 
+and some were just for fun.
